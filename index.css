@@ -1,0 +1,49 @@
+* {
+    font-style: Roboto Mono;
+    
+}
+
+container {
+
+}
+
+.nav1 {
+    background-color: #FF764E;
+    color: white;
+    border-radius: 25px;
+}
+
+.nav2 {
+    background-color: #5ED3EB;
+    color: white;
+    border-radius: 25px;
+}
+
+.nav3 {
+    background-color: #FFCD69;
+    color: white;
+    border-radius: 25px;
+}
+
+.nav1 .nav2 .nav3:hover {
+
+}
+
+h1 {
+    font-style: Chelsea Market;
+}
+
+.main {
+    color: white;
+    background-color: #DDB9A3;
+}
+
+span{
+    font-style: bold;
+}
+
+footer
+{
+    background-color: #F9E7DC;
+
+}
